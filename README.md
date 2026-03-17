@@ -128,9 +128,3 @@ This project is open-source and available under the **MIT License**.
 **Veerabhadra Reddy**
 
 ---
-
-If you want, I can also:
-
-* add **screenshots section**
-* create a **Minimax unbeatable AI version**
-* or generate a **GitHub repo structure with files** 
