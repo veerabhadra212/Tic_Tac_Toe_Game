@@ -40,7 +40,7 @@ A stylish and interactive Tic Tac Toe game built using **Python**, **Tkinter**, 
 
 ```
 tic-tac-toe/
-│── main.py        # Main game file
+│── Tic_Tac_Toe.py        # Main game file
 │── README.md      # Project documentation
 ```
 
